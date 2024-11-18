@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-🎯 Tech Lead Consultant | 🚀 Full-stack Developer | 🌟 8+ years of experience
+🎯 Tech Lead Consultant | 🚀 Full-stack Developer | 🌟 8.5+ years of experience
 
 I'm <a href = "https://www.linkedin.com/in/apurv-prajapati93/">Apurv</a>, a Software Engineer with over 8 years of experience in various roles, including Tech Lead Consultant and Full-stack Developer. I'm passionate about crafting high-quality web applications, solving complex problems with code and leading teams to success.
 Experienced in **PHP**, **Laravel**, **React.js**, **AWS**, **Python** and more. Currently, exploring new horizons in **Cloud services** and **Microservices**. I enjoy to tackling complex problems with innovative solutions and collaborating with clients and teams to deliver world-class products.
